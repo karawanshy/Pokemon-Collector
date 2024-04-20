@@ -1,0 +1,81 @@
+{
+    "magneton": {
+        "name": "magneton",
+        "abilities": [
+            "magnet-pull",
+            "sturdy",
+            "analytic"
+        ],
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "species": "Magnet Pok\u00e9mon",
+        "description": "Formed by several\nMAGNEMITEs linked\ntogether. They\ffrequently appear\nwhen sunspots\nflare up."
+    },
+    "magmar": {
+        "name": "magmar",
+        "abilities": [
+            "flame-body",
+            "vital-spirit"
+        ],
+        "types": [
+            "fire"
+        ],
+        "species": "Spitfire Pok\u00e9mon",
+        "description": "Its body always\nburns with an\norange glow that\fenables it to\nhide perfectly\namong flames."
+    },
+    "sunflora": {
+        "name": "sunflora",
+        "abilities": [
+            "chlorophyll",
+            "solar-power",
+            "early-bird"
+        ],
+        "types": [
+            "grass"
+        ],
+        "species": "Sun Pok\u00e9mon",
+        "description": "It converts sun\u00ad\nlight into energy.\nIn the darkness\fafter sunset, it\ncloses its petals\nand becomes still."
+    },
+    "golem": {
+        "name": "golem",
+        "abilities": [
+            "rock-head",
+            "sturdy",
+            "sand-veil"
+        ],
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "species": "Megaton Pok\u00e9mon",
+        "description": "Its boulder-like\nbody is extremely\nhard. It can\feasily withstand\ndynamite blasts\nwithout damage."
+    },
+    "pichu": {
+        "name": "pichu",
+        "abilities": [
+            "static",
+            "lightning-rod"
+        ],
+        "types": [
+            "electric"
+        ],
+        "species": "Tiny Mouse Pok\u00e9mon",
+        "description": "It is not yet\nskilled at storing\nelectricity.\fIt may send out a\njolt if amused\nor startled."
+    },
+    "paras": {
+        "name": "paras",
+        "abilities": [
+            "effect-spore",
+            "dry-skin",
+            "damp"
+        ],
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "species": "Mushroom Pok\u00e9mon",
+        "description": "Burrows to suck\ntree roots. The\nmushrooms on its\fback grow by draw\u00ad\ning nutrients from\nthe bug host."
+    }
+}
