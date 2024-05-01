@@ -17,4 +17,6 @@ class Pokemon:
         }
     
     def __str__(self):
-        return f"Pokemon name: {self.name}\n\nAbility:\n{"\n".join(f"- {ability}" for ability in self.abilities)}\n\nType:\n{"\n".join(f"- {p_type}" for p_type in self.types)}\n\nDescription: \n{self.description}\n"
+        ability_str = "\n".join(f"- {ability}" for ability in self.abilities)
+        type_str = "\n".join(f"- {p_type}" for p_type in self.types)
+        return f"Pokemon name: {self.name}\n\nAbility:\n{ability_str}\n\nType:\n{type_str}\n\nDescription: \n{self.description}\n"
