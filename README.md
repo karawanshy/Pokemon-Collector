@@ -8,3 +8,15 @@ Pokemon Collector is a program developed using Object-Oriented Programming (OOP)
 2. If the user answers yes, a random Pokémon name is fetched from the PokeAPI.
 3. If the fetched Pokémon already exists in the local JSON database, existing data is retrieved from the database and presented to the user.
 4. If it doesn't exist in the database, its details are fetched from the PokeAPI, stored for future reference, and then presented to the user.
+
+## Usage
+1. Run `main.py` to start the program.
+2. When prompted, enter 'Y' to fetch and display a random Pokémon or 'N' to exit the program.
+3. If 'Y' is entered, a random Pokémon's information will be displayed, including its name, abilities, types, species, and description.
+
+## Setup
+Before running the program, ensure that you have installed the required dependencies:
+
+```bash
+pip install requests
+```
